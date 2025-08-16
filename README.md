@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Numeriano L. Constantino Jr.</h1>
-<h3 align="center">A aspiring Project Manage & Business Analyst</h3>
+<h3 align="center">Aspiring Project Manage & Business Analyst</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
