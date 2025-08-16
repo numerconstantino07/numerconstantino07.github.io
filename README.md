@@ -1,58 +1,10 @@
-#  My Portfolio
+<h1 align="center">Hi 👋, I'm Numeriano L. Constantino Jr.</h1>
+<h3 align="center">A aspiring Project Manage & Business Analyst</h3>
 
-> *"Balancing studies, work, and faith — with passion and purpose."*
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/numer.lubrinoconstantino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/numer.lubrinoconstantino" height="30" width="40" /></a>
+</p>
 
----
-
-##  About Me
-
-**NUMERIANO L. CONSTANTINO JR.**  
-I am a hardworking student with a part-time job as **Frontline Staff** and **Social Media Content Creator** for **BES House of Chicken**.  
-While working, I am currently pursuing my **Bachelor of Science in Information System** at **La Verdad Christian College**.  
-
-I strive to excel both in academics and in my professional journey — all while serving God as an aspiring servant of the **Members Church of God International (MCGI)**.
-
----
-
-##  Skills & Leadership
-
-- **Leadership Experience**  
-  - Former **SSG Officer** in Junior and Senior High School  
-  - **Class Coordinator** for **2 consecutive years** in college  
-
-- **Professional Skills**  
-  - Customer Service & Communication  
-  - Social Media Marketing & Content Creation  
-  - Time Management & Multitasking  
-
----
-
-##  Work Experience
-
-- **Hotel Agent Representative** — *1 year and 6 months*  
-- **BES House of Chicken**  
-  - Frontline Staff  
-  - Social Media Content Creator (Marketing)
-
----
-
-##  My Projects
-
-
----
-
-##  Balancing Life as an IS Student, Fast Food Crew, and Servant of God
-
-![Balancing Life](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
-  
-
----
-
-##  Contact Me
-
--  **Email:** [numerconstantino@gmail.com](mailto:youremail@example.com)  
--  **LinkedIn:** [https://www.linkedin.com/in/numeriano-constantino-jr-a0aaa4254/](#)  
--  **GitHub:** [numerconstantino07](#)
-
----
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
